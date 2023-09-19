@@ -1,0 +1,4 @@
+This application is a simple TicTacToe game using javafx. the user plays against
+the computer while the application keeps track of the score. 
+When either the user or computer wins or a tie occurs an alert pops up to 
+notify the user of the outcome of the game. 
